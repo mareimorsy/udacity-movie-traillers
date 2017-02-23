@@ -1,0 +1,74 @@
+[
+	{
+		"title": "The Matrix",
+		"storyline": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+		"poster_url": "https://upload.wikimedia.org/wikipedia/en/c/c1/The_Matrix_Poster.jpg",
+		"trailer_url": "https://www.youtube.com/watch?v=m8e-FF8MsqU"
+	},
+	{
+		"title": "Yu-Gi-Oh!: The Dark Side of Dimensions",
+		"storyline": "Yugi and Kaiba have a special duel that transcends dimensions.",
+		"poster_url": "https://upload.wikimedia.org/wikipedia/en/d/d9/Yu-Gi-Oh%21_The_Dark_Side_of_Dimensions_Poster.png",
+		"trailer_url": "https://www.youtube.com/watch?v=L5hx5rvLUN8"
+	},
+	{
+		"title": "La La Land",
+		"storyline": "A jazz pianist falls for an aspiring actress in Los Angeles.",
+		"poster_url": "https://upload.wikimedia.org/wikipedia/en/a/ab/La_La_Land_%28film%29.png",
+		"trailer_url": "https://www.youtube.com/watch?v=0pdqf4P9MB8"
+	},
+	{
+		"title": "Doctor Strange",
+		"storyline": "A former neurosurgeon embarks on a journey of healing only to be drawn into the world of the mystic arts.",
+		"poster_url": "https://upload.wikimedia.org/wikipedia/en/c/c7/Doctor_Strange_poster.jpg",
+		"trailer_url": "https://www.youtube.com/watch?v=HSzx-zryEgM"
+	},
+	{
+		"title": "Predestination",
+		"storyline": "For his final assignment, a top temporal agent must pursue the one criminal that has eluded him throughout time. The chase turns into a unique, surprising and mind-bending exploration of love, fate, identity and time travel taboos.",
+		"poster_url": "https://upload.wikimedia.org/wikipedia/en/4/4b/Predestination_poster.jpg",
+		"trailer_url": "https://www.youtube.com/watch?v=UVOpfpYijHA"
+	},
+	{
+		"title": "Her",
+		"storyline": "A lonely writer develops an unlikely relationship with an operating system designed to meet his every need.",
+		"poster_url": "https://upload.wikimedia.org/wikipedia/en/4/44/Her2013Poster.jpg",
+		"trailer_url": "https://www.youtube.com/watch?v=WzV6mXIOVl4"
+	},
+	{
+		"title": "Contact",
+		"storyline": "Dr. Ellie Arroway, after years of searching, finds conclusive radio proof of intelligent aliens, who send plans for a mysterious machine.",
+		"poster_url": "https://upload.wikimedia.org/wikipedia/en/7/75/Contact_ver2.jpg",
+		"trailer_url": "https://www.youtube.com/watch?v=SRoj3jK37Vc"
+	},
+	{
+		"title": "The Butterfly Effect",
+		"storyline": "Evan Treborn suffers blackouts during significant events of his life. As he grows up, he finds a way to remember these lost memories and a supernatural way to alter his life by reading his journal.",
+		"poster_url": "https://upload.wikimedia.org/wikipedia/en/4/43/Butterflyeffect_poster.jpg",
+		"trailer_url": "https://www.youtube.com/watch?v=B8_dgqfPXFg"
+	},
+	{
+		"title": "The Shawshank Redemption",
+		"storyline": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+		"poster_url": "https://upload.wikimedia.org/wikipedia/en/8/81/ShawshankRedemptionMoviePoster.jpg",
+		"trailer_url": "https://www.youtube.com/watch?v=6hB3S9bIaco"
+	},
+	{
+		"title": "12 Angry Men",
+		"storyline": "Twelve men must decide the fate of one when one juror objects to the jury's decision.",
+		"poster_url": "https://upload.wikimedia.org/wikipedia/en/9/91/12_angry_men.jpg",
+		"trailer_url": "https://www.youtube.com/watch?v=A7CBKT0PWFA"
+	},
+	{
+		"title": "Ratatouille",
+		"storyline": "A rat who can cook makes an unusual alliance with a young kitchen worker at a famous restaurant.",
+		"poster_url": "https://upload.wikimedia.org/wikipedia/en/5/50/RatatouillePoster.jpg",
+		"trailer_url": "https://www.youtube.com/watch?v=c3sBBRxDAqk"
+	},
+	{
+		"title": "Rocky",
+		"storyline": "Rocky Balboa, a small-time boxer, gets a supremely rare chance to fight heavy-weight champion Apollo Creed in a bout in which he strives to go the distance for his self-respect.",
+		"poster_url": "https://upload.wikimedia.org/wikipedia/en/1/18/Rocky_poster.jpg",
+		"trailer_url": "https://www.youtube.com/watch?v=Irrnnybc8i4"
+	}
+]
