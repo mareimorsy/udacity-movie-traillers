@@ -5,7 +5,7 @@ import os
 import re
 
 # Make a request to Movies API
-connection = urllib.request.urlopen("http://127.0.0.1/api/movies.json")
+connection = urllib.request.urlopen("https://raw.githubusercontent.com/mareimorsy/udacity-movie-traillers/master/api/movies.json")
 # Read the response output
 json_data = connection.read()
 # convert JSON response to a Python Dict
